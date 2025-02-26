@@ -1,0 +1,23 @@
+/* cascading style sheet */
+
+#unique-h1.my-h1{
+    color: aqua;
+}
+
+
+h1.my-h1{
+    color:blue
+}
+
+h1{
+    color: red !important;
+}
+
+.parent{
+    font-size: 100px;
+    color: blue;
+}
+
+p{
+    color: brown;
+}

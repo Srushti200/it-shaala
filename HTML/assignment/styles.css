@@ -1,0 +1,41 @@
+*{
+    font-family: Arial;
+}
+
+p{
+    color: darkgrey;
+}
+
+body{
+    background-color: #aaaa63;
+}
+
+.highlight{
+    background-color: yellowgreen;
+}
+
+.box{
+    background-color:grey;
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+}
+
+#main-div{
+    font-size: 20 px;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+p span {
+    color: blue;
+}
+
+.list-div li{
+    color: red;
+}
+
+h1, 
+h2,
+h2{
+    text-align: center;
+}

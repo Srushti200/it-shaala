@@ -1,0 +1,19 @@
+
+.heading{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+
+.heading-02{
+    color: red;
+
+}
+
+#para{
+    color: red;
+}
+
+*{
+    color: aquamarine;
+}
